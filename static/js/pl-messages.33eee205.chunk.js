@@ -1,2 +1,0 @@
-(self.webpackChunk_scaffold_eth_react_app=self.webpackChunk_scaffold_eth_react_app||[]).push([[288],{17887:function(e){e.exports={messages:{}}}}]);
-//# sourceMappingURL=pl-messages.33eee205.chunk.js.map

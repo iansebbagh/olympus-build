@@ -1,2 +1,0 @@
-(self.webpackChunk_scaffold_eth_react_app=self.webpackChunk_scaffold_eth_react_app||[]).push([[977],{57886:function(e){e.exports={messages:{}}}}]);
-//# sourceMappingURL=ko-messages.40e737ef.chunk.js.map
